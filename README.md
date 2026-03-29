@@ -3,8 +3,8 @@
 
 ---
 
-**Name:** [Your Full Name]  
-**Registration Number:** [Your Reg No.]  
+**Name:** AYUSH SINGH
+**Registration Number:** 25BAI11039
 **Branch:** B.Tech – Computer Science and Engineering  
 **Year:** First Year | 2024–25  
 **Course Code:** CSE0001  
@@ -44,7 +44,7 @@ Set up profiles on GitHub, LinkedIn, and Kaggle. Each platform serves a differen
 **Task 3 — Coding and Collaboration Platforms**  
 Completed a beginner challenge on HackerRank and built a 5-question Digital Literacy Awareness Quiz using Google Forms.
 
-**Google Form Quiz Link:** [Paste your Google Form link here after creating it]
+**Google Form Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSf5mfl_SydkPI9rMcjuaWycBC2pPP2Be-n10-E3nzEi6g3NNA/viewform?usp=publish-editor
 
 **Task 4 — Email Etiquette**  
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing internship interest to a company. Also created a social media Do's and Don'ts checklist.
