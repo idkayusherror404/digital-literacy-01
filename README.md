@@ -56,10 +56,9 @@ Researched UPI/Online Payment Fraud as my chosen cybercrime type. Wrote a 200-wo
 
 ## Platforms I Am On
 
-- GitHub: [your GitHub profile link]
-- LinkedIn: [your LinkedIn profile link]
-- Kaggle: [your Kaggle profile link]
-
+- GitHub: https://github.com/idkayusherror404/digital-literacy-01
+- LinkedIn: https://www.linkedin.com/in/ayush-singh-rajput-42611b3bb/
+- Kaggle: https://www.kaggle.com/ayushsinghrajput404
 ---
 
 ## References
