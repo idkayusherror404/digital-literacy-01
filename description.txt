@@ -1,7 +1,6 @@
 Task 1 — Digital Literacy Infographic
 
-Tool Used: HTML and CSS
-
+Tool Used: CANVA AND GAMMA AI
 The infographic file is named infographic.html in this folder. Open it in any browser to view the full design. A screenshot of the rendered infographic is also included as infographic-screenshot.png.
 
 What the infographic covers:
@@ -11,4 +10,3 @@ What the infographic covers:
 - How to build a professional online presence on LinkedIn and GitHub
 - A breakdown of how to write a proper formal email, field by field
 
-Report write-up (150 words) is included in the full project report under Task 1.
