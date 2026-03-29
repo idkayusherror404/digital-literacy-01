@@ -1,0 +1,20 @@
+EMAIL 1 — Request for Assignment Deadline Extension
+
+To: professor.name@vitbhopal.ac.in
+Subject: Request for Extension — CSA2001 Assignment Submission | [Your Name] | [Reg No.]
+
+Respected Ma'am/Sir,
+
+I am [Your Full Name], a first-year B.Tech student (Registration No. [Your Reg No.]) enrolled in your CSA2001 – Fundamentals of AI and ML course.
+
+I am writing to request a short extension of two days on the current assignment submission deadline, which is [date]. Over the past week I have been unwell and was unable to attend college from [date] to [date]. I have attached my medical certificate for your reference. I have completed approximately 70% of the assignment and am confident I can submit a complete and quality submission if given until [extended date].
+
+I understand that extensions are not always possible and I completely respect your decision either way. If the extension cannot be granted, I will submit whatever I have completed by the original deadline.
+
+Thank you for your time and consideration.
+
+Regards,
+[Your Full Name]
+Registration No.: [Your Reg No.]
+B.Tech CSE | First Year | Semester [X]
+VIT Bhopal University

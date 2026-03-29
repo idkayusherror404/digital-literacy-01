@@ -1,0 +1,79 @@
+DIGITAL LITERACY PORTFOLIO
+Project Report
+
+CSE0001 – Digital Literacy
+VIT Bhopal University
+
+---
+
+Name:               [Your Full Name]
+Registration No.:   [Your Reg No.]
+Branch:             B.Tech – Computer Science and Engineering
+Year / Semester:    First Year | Semester [X]
+Course Code:        CSE0001
+Submission Date:    [Date]
+
+---
+
+INTRODUCTION
+
+This project was assigned as part of the CSE0001 Digital Literacy course at VIT Bhopal. The scenario given to us was that we had been selected as Student Digital Ambassadors, and our job was to build a portfolio that demonstrates our ability to navigate the digital world responsibly and professionally. The portfolio covers five modules — infographic design, building a digital presence, exploring coding and collaboration platforms, professional communication, and cybercrime awareness. I approached each task as if I were actually preparing material to present to my batchmates, which made the work feel more real and less like a checklist exercise. All five tasks are documented below along with my reflections.
+
+---
+
+TASK 1 — Digital Literacy Awareness Infographic
+
+For the infographic in Task 1, I used HTML and CSS as my design tool instead of Canva or Prezi. I chose this because I wanted full control over the layout and I am more comfortable writing code than dragging elements around in a template-based tool. The design covers all five topics — digital literacy, useful student tools, safe internet practices, professional online presence, and email etiquette — arranged in a clean four-section layout with a header, three columns, and a bottom row.
+
+The section I found most interesting to make was the email etiquette part. I broke a formal email down field by field — subject line, greeting, body, and signature — and laying it out visually made me realize how much detail goes into even a short professional email. It also made me think about my own emails to professors, and honestly I was not always including my registration number in the signature, which I will start doing from now. The infographic file is in the task-1-presentation folder.
+
+---
+
+TASK 2 — Student Digital Portfolio
+
+I chose to set up accounts on three platforms: GitHub, LinkedIn, and Kaggle. Each one serves a different purpose and together they cover the three things that matter most for a computer science student — code, professional networking, and data skills.
+
+GitHub was the one I spent the most time on. I created a profile README, which is a special repository with the same name as your username that displays automatically on your profile page. I added my name, branch, year, and a sentence about what I want to learn, which right now is machine learning and backend development. LinkedIn I used to fill in my education section with my current degree, institution, and expected graduation year of 2028. I also browsed the profiles of seniors from my college who are now in internships, which gave me a clear sense of what a strong profile looks like after four years. Kaggle I set up for future use — right now I do not have any notebooks submitted, but I created the account with my college email and plan to start with beginner datasets in second semester. The biggest thing I took from this task is that these three platforms work together, and starting early means I will have actual content on them by the time I need them for internship applications.
+
+---
+
+TASK 3 — Coding and Collaboration Platforms
+
+For Part A, I used HackerRank and completed the Solve Me First challenge, which is a basic addition problem that introduces how the platform works. It was simple in terms of logic but it helped me understand the submission workflow — writing code, running it against hidden test cases, and reading the output. The instant feedback is something classroom assignments do not give you, and I can see how attempting one or two problems a week would meaningfully improve how quickly and accurately I write code under pressure.
+
+For Part B, I built a five-question Digital Literacy Awareness Quiz on Google Forms. Three questions are multiple choice and two are short answer. The multiple choice questions cover password safety, what HTTPS means, and how to recognize a phishing attempt. The short answer questions ask students to explain in their own words why password reuse is risky and what they would check before trusting information found online. What I found genuinely useful about Google Forms is how it connects to Google Sheets automatically. Every submission appears as a row in a spreadsheet in real time, which means if I actually ran this quiz with my batch I could immediately see which questions most people got wrong. That turns it from just a form into an actual feedback tool. The form link is in the README and screenshots are in the task-3-platforms folder.
+
+---
+
+TASK 4 — Email Etiquette
+
+Poor digital communication has real consequences even when the technology involved is something as simple as email. One common scenario that comes up repeatedly in workplaces is someone sending an angry or poorly worded email when they should have taken time to think. In 2018, a widely reported incident involved a junior employee at a UK firm who sent a mass reply-all email complaining about their manager, not realizing the entire company including senior leadership was on the thread. The employee resigned shortly after. What could have been handled differently is straightforward — pause before sending, check the recipient list, and never send an email when emotional. Email is a permanent record. A message sent in 30 seconds can follow you for years.
+
+The two emails I drafted — one for a deadline extension and one for an internship application — both taught me that saying less, clearly, is harder than writing a long message. The internship email especially required me to think about what a recruiter actually wants to read, which is not a summary of your life but one clear reason why you are worth a conversation. Both drafts are in the task-4-email-etiquette folder along with the social media checklist.
+
+---
+
+TASK 5 — Cybercrime Awareness
+
+I chose UPI and online payment fraud as my cybercrime topic because it is the one most directly relevant to students my age in India. Almost everyone in my batch uses UPI daily, and the fraud techniques used in this category are specifically designed to exploit how intuitive and fast UPI feels. The thing that surprised me most while researching this topic is how simple the mechanism is. The attacker does not need any technical skills. They just send a UPI collect request instead of a transfer, and rely on the victim not knowing the difference. Most people have never been told that entering your PIN sends money rather than receiving it. That single gap in knowledge is what the entire scam depends on.
+
+The one habit I will personally change is that I will now always close the UPI app and reopen it before checking my balance after any transaction, instead of trusting the screen that appears immediately after. It is a small thing but it ensures I am looking at the actual current state of my account, not a manipulated screen. The case study and checklist are both in the task-5-cybercrime folder.
+
+---
+
+CONCLUSION
+
+This project made me think about digital literacy as something more practical than I expected. I came in thinking it would be about learning which apps to use, but it ended up being more about habits — how to write, how to protect yourself, how to present yourself, and how to think critically about what you see and do online. The task that stayed with me the most was the cybercrime one, because it showed how the most effective scams do not use sophisticated technology at all — they use the assumption that people will not slow down and read carefully. That applies to a lot of things online. The most important digital skill might just be the habit of pausing before clicking.
+
+---
+
+REFERENCES
+
+1. National Cyber Crime Portal — https://cybercrime.gov.in
+2. Cyber Crime Helpline — 1930
+3. HackerRank — https://hackerrank.com
+4. Google Forms — https://forms.google.com
+5. GitHub Profile README documentation — https://docs.github.com
+6. LinkedIn Help Center — https://linkedin.com/help
+7. Press Trust of India reports on UPI fraud cases (2022–2024)
+8. VITyarthi E-Learning Platform — CSE0001 course material

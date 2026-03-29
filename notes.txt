@@ -1,0 +1,50 @@
+Task 3 — Coding and Collaboration Platforms
+
+PART A — HackerRank
+Platform: HackerRank (hackerrank.com)
+Challenge completed: "Solve Me First" (introductory challenge)
+Screenshot of completion is saved in this folder as hackerrank-screenshot.png
+
+PART B — Google Form: Digital Literacy Awareness Quiz
+
+Form Title: Digital Literacy Awareness Quiz — How Safe Are You Online?
+
+Question 1 (Multiple Choice):
+Which of the following is the safest type of password?
+a) your date of birth
+b) your pet's name
+c) a mix of uppercase letters, numbers, and symbols
+d) your college roll number
+Correct answer: c
+
+Question 2 (Multiple Choice):
+What does HTTPS in a website URL indicate?
+a) the website is popular
+b) the connection between your browser and the site is encrypted
+c) the website is government-approved
+d) the site loads faster than HTTP sites
+Correct answer: b
+
+Question 3 (Multiple Choice):
+Which of the following is an example of phishing?
+a) a website asking you to create an account
+b) an email from an unknown sender asking for your bank OTP
+c) a college portal asking you to log in with your ID
+d) a pop-up offering a free antivirus download
+Correct answer: b
+
+Question 4 (Short Answer):
+In your own words, explain why you should not use the same password for multiple accounts.
+
+Question 5 (Short Answer):
+Name one thing you would check before trusting a piece of information you found online.
+
+---
+
+Reflection (for project report):
+
+For Part A, I used HackerRank and completed the Solve Me First challenge, which is a basic input-output problem that introduces how the platform works. It was straightforward but it helped me understand the submission process — you write your solution, run it against test cases, and get immediate feedback. That kind of instant feedback is something that classroom assignments rarely give you, and I can see how doing a few of these every week would genuinely improve how fast I write and debug code.
+
+For Part B, I built the Digital Literacy Awareness Quiz on Google Forms. I designed it with five questions — three multiple choice and two short answer. The multiple choice questions test whether students know the basics of password safety, HTTPS encryption, and phishing recognition. The two short answer questions ask for their own explanations, which forces actual understanding rather than just recognition of the right option.
+
+What I found useful about Google Forms is how it connects directly to Google Sheets for responses. As soon as someone submits the form, their answers appear in a spreadsheet automatically. If I actually used this quiz for my batchmates, I could see at a glance which questions most people got wrong and adjust what I explain to them accordingly. That makes it a genuinely practical tool and not just a submission exercise.

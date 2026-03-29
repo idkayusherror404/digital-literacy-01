@@ -1,0 +1,20 @@
+Task 2 — Student Digital Portfolio
+
+Platforms set up:
+1. GitHub — profile and repository created
+2. LinkedIn — education section filled in
+3. Kaggle — account created with basic profile
+
+Screenshots of each platform are in this folder.
+
+Reflection (for project report):
+
+I chose GitHub, LinkedIn, and Kaggle because between the three of them they cover the three things that matter most in a computer science career — code, professional network, and data skills.
+
+GitHub was the one I spent the most time on. I created a profile README file which is a special repository with the same name as your username. It shows up on your profile automatically. I added my name, branch, year, and a line about what I want to learn — which right now is machine learning and backend development. Setting it up made me realize that GitHub is not just a place to store code, it is actually your public portfolio that anyone can look at, including recruiters.
+
+LinkedIn felt more formal. I filled in my education section with my current degree at VIT Bhopal, my branch, and my expected graduation year of 2028. I did not add a photo yet but I plan to once I have something presentable. I also connected with a few of my seniors who are already doing internships, which gave me a clearer idea of what profile completeness looks like at a working level.
+
+Kaggle I set up mainly for future use. Right now I do not have any completed notebooks or competition submissions, but I created the account with my college email and filled in my profile basics. Over the next two years I plan to start with the beginner datasets and work up to at least one real competition before my third year.
+
+The most useful thing I learned from this task is that these platforms work together. Code on GitHub, achievements on Kaggle, and both linked from LinkedIn creates a complete picture of who you are as a student and what you have actually built — not just what your grades say.

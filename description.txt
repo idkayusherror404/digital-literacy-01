@@ -1,0 +1,14 @@
+Task 1 — Digital Literacy Infographic
+
+Tool Used: HTML and CSS
+
+The infographic file is named infographic.html in this folder. Open it in any browser to view the full design. A screenshot of the rendered infographic is also included as infographic-screenshot.png.
+
+What the infographic covers:
+- What digital literacy means and why it matters
+- Six useful tools for students (Notion, Google Scholar, Grammarly, Canva, Zotero, GitHub)
+- Six safe internet practices including passwords, two-factor authentication, and phishing awareness
+- How to build a professional online presence on LinkedIn and GitHub
+- A breakdown of how to write a proper formal email, field by field
+
+Report write-up (150 words) is included in the full project report under Task 1.
