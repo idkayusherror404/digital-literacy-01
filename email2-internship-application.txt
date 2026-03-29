@@ -1,23 +1,23 @@
 EMAIL 2 — Expression of Interest in Summer Internship
 
 To: hr@companyname.com
-Subject: Application for Summer Internship 2025 — B.Tech CSE Student | [Your Name]
+Subject: Application for Summer Internship 2025 — B.Tech CSE Student 
 
 Dear Hiring Team,
 
-I am [Your Full Name], a first-year B.Tech student specializing in Computer Science and Engineering at VIT Bhopal University (expected graduation: 2028). I am writing to express my interest in a summer internship opportunity at [Company Name] for the May–July 2025 period.
+I am Ayush singh , a first-year B.Tech student specializing in Computer Science and Engineering at VIT Bhopal University (expected graduation: 2028). I am writing to express my interest in a summer internship opportunity at Google for the May–July 2025 period.
 
-I am currently building foundational skills in Python, C++, and machine learning through my coursework, and I am looking for an opportunity to apply what I have learned in a real work environment. I came across [Company Name] through [LinkedIn / your college placement cell / a senior's recommendation] and was particularly interested in your work in [specific domain — e.g., data engineering / web development / AI].
+I am currently building foundational skills in Python, C++, and machine learning through my coursework, and I am looking for an opportunity to apply what I have learned in a real work environment. I came across google through your college placement cell and was particularly interested in your work in [specific domain — e.g., data engineering , AI
 
 I have attached my resume for your consideration. I am flexible with timelines and open to both in-person and remote formats. I would be grateful for the opportunity to speak with you or anyone on your team at your convenience.
 
 Thank you for taking the time to read this email. I look forward to hearing from you.
 
 Regards,
-[Your Full Name]
+Ayush singh
 B.Tech CSE | First Year
 VIT Bhopal University
-Registration No.: [Your Reg No.]
-Contact: [your college email]
-GitHub: github.com/[yourusername]
-LinkedIn: linkedin.com/in/[yourusername]
+Registration No.: 25BAI11039
+Contact: ayush.25bai11039@vitbhopal.ac.in
+GitHub: https://github.com/idkayusherror404
+LinkedIn: https://www.linkedin.com/in/ayush-singh-rajput-42611b3bb/
